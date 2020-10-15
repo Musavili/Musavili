@@ -15,12 +15,19 @@ I'm Musavili, a software development enthusiast and problem sovler.
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
   
 ###### Other tech stacks I've used
+
+
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/><a/></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/><a/></code>
+  
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/><a/></code>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/><a/></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>  
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 
-</a> - 💼 Find me on inkedIn:
+</a> - 💼 Find me on LinkedIn:
 <a href="https://www.linkedin.com/in/musavili-leon-636702145/">
   <img align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
