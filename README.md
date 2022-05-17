@@ -26,6 +26,7 @@ I'm Musavili, a software development enthusiast and problem sovler.
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/><a/></code>
 <code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/><a/></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height=50 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/><a/></code>  
 
 </a> - 💼 Find me on LinkedIn:
 <a href="https://www.linkedin.com/in/musavili-leon-636702145/">
