@@ -34,4 +34,3 @@ I'm Musavili, a software development enthusiast and problem sovler.
 </a>
 
 ![Musavili's github stats](https://github-readme-stats.vercel.app/api?username=Musavili&show_icons=true&line_height=30)
-![Musavili's github stats](https://github-readme-stats.vercel.app/api?username=Musavili&show_icons=true)
